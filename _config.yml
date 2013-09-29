@@ -9,10 +9,7 @@ markdown: rdiscount
 # so be sure to set them if your theme uses them.
 #
 title : JAZ
-tagline: Site Taglineanalytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-123-12'
+tagline: Site Tagline
 author :
   name : Jaz
   email : jazdelu@gmail.com	
